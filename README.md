@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
-To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent. 
+To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent.
 ### Algorithm:
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., SeekBehaviorDemo).
 2. Create the Moving Object
